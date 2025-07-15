@@ -6,7 +6,7 @@
   --accent-color: #FF8DCB;
   --font-color: #353430;
   --button-color: #353430;
-  --button-hover-color: #353430;
+  --button-hover-color: rgba(50 49 45/ 0.4);
   --decor-color: #353430;
   --title-decor-color: #353430;
 }
@@ -25,7 +25,7 @@
     --accent-color: #FF8DCB;
     --font-color: #353430;
     --button-color: #353430;
-    --button-hover-color: #353430;
+    --button-hover-color: rgba(50 49 45/ 0.4);
     --decor-color: #353430;
   }
 
